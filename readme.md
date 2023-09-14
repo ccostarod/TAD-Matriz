@@ -20,13 +20,13 @@ O trabalho contem as seguintes funcionalidades:
 Essas funções permitem a criação, manipulação e operações básicas em matrizes representadas por meio da estrutura `Matriz`.
 
 
-# Instruções para Executar o Programa "apl"
+# Instruções para Executar o Programa "apl" no `PowerShell`
 
 Este é um guia simples sobre como executar o programa "apl" no seu sistema. Certifique-se de que você tenha o arquivo executável "apl" disponível antes de seguir estas instruções.
 
-## Passo 1: Acessar o Terminal
+## Passo 1: Acessar o PowerShell
 
-Abra o terminal do seu sistema operacional. Você pode encontrar o terminal no menu de aplicativos ou usando o atalho de teclado apropriado, dependendo do sistema que você está usando.
+Abra o PowerShell do seu computado. Você pode encontrar o terminal no menu de aplicativos ou usando o atalho de teclado apropriado, dependendo do sistema que você está usando.
 
 ## Passo 2: Navegar até o Diretório do Programa
 
